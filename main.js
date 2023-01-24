@@ -1,33 +1,33 @@
 const questions = [
 	{
-		question: "Какой язык работает в браузере?",
-		answers: ["Java", "C", "Python", "JavaScript"],
+		question: "в каком году был основан Санкт-Петербург",
+		answers: ["1991", "1365", "1887", "1703"],
 		correct: 4,
 	},
 	{
-		question: "Что означает CSS?",
+		question: "в каком году был основан Тамбов?",
 		answers: [
-			"Central Style Sheets",
-			"Cascading Style Sheets",
-			"Cascading Simple Sheets",
-			"Cars SUVs Sailboats",
+			"1345",
+			"1636",
+			"1887",
+			"1911",
 		],
 		correct: 2,
 	},
 	{
-		question: "Что означает HTML?",
+		question: "в каком году был основан Москва?",
 		answers: [
-			"Hypertext Markup Language",
-			"Hypertext Markdown Language",
-			"Hyperloop Machine Language",
-			"Helicopters Terminals Motorboats Lamborginis",
+			"1147",
+			"1376",
+			"1478",
+			"1765",
 		],
 		correct: 1,
 	},
 	{
-		question: "В каком году был создан JavaScript?",
-		answers: ["1996", "1995", "1994", "все ответы неверные"],
-		correct: 2,
+		question: "У кого самые красивые глаза, приятный взгляд и модельная походка?",
+		answers: ["У Нины"],
+		correct: 1,
 	},
 ];
 
